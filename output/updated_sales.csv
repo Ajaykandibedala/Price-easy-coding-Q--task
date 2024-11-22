@@ -1,0 +1,6 @@
+transaction_id,description,amount,product_code,product_name
+T001,Bought Smart Watch (SW-1234-AB),199.99,SW-1234-AB,Smart Watch
+T002,Purchased Wireless Earbuds WE-5678-CD,99.99,WE-5678-CD,Wireless Earbuds
+T003,Running Shoes - RS9012EF,149.99,,
+T004,Bluetooth Speaker (BS-3456-GH),49.99,BS-3456-GH,Bluetooth Speaker
+T005,"Sneakers Casual, Code: CS-7890-IJ",79.99,CS-7890-IJ,Casual Sneakers
