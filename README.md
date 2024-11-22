@@ -108,4 +108,4 @@ The transformed sales data and category summary are saved as CSV files in the `o
 3. **Dependency Issues**: Ensure that `pandas` is installed in your Python environment.
 ---
 ## Contact
-For further assistance, feel free to reach out to the project owner.
+Kandibedala Ajay.
