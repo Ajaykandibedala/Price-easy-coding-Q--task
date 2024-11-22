@@ -13,6 +13,7 @@ This project performs data transformation and analysis on two datasets: `sales.c
 ├── sales.csv        # Input sales data
 ├── products.csv     # Input products data
 ├── main.py          # Main script for processing
+|-- transform_sales.py          
 └── output/
     ├── updated_sales.csv    # Transformed sales file with product_name
     └── category_summary.csv # Category-wise sales summary
