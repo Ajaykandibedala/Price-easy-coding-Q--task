@@ -8,7 +8,7 @@ This project performs data transformation and analysis on two datasets: `sales.c
 ## File Structure
 
 ```
-venv/
+.venv/
 |
 ├── sales.csv        # Input sales data
 ├── products.csv     # Input products data
